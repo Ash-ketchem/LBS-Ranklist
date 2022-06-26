@@ -9,6 +9,6 @@ The script parses the results.txt file to generate a dataframe with the ranks ca
 HOW TO USE
 -----------------
 
-git clone repo
-cd folder
+git clone [repo](https://github.com/Ash-ketchem/LBS-Ranklist.git)
+cd LBS-Ranklist
 python rank.py

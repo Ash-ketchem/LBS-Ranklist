@@ -12,8 +12,14 @@ The script parses the results.txt file to generate a dataframe with the ranks ca
 HOW TO USE
 -----------------
 
+(っ◔◡◔)っ ♥ 
+
 git clone https://github.com/Ash-ketchem/LBS-Ranklist.git
 
 cd LBS-Ranklist
 
 python rank.py
+
+If you want to search for any names enter the names seperated by a "-" when prompted by the script
+ex : ramesh p p-sumesh k k
+♥

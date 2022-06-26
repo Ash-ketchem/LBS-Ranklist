@@ -1,4 +1,7 @@
-# LBS-Ranklist-
+# LBS-Ranklist MCA 2022
+Result of Entrance Examination conducted on 12-06-2022
+
+
 A simple python script to parse the lbs results 2022 to calculate the rank based on merit
 
 The script parses the results.txt file to generate a dataframe with the ranks calculated for each student based on the conditions given on the lbs prospectus.

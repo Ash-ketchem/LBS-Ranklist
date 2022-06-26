@@ -20,8 +20,6 @@ git clone https://github.com/Ash-ketchem/LBS-Ranklist.git
 
 cd LBS-Ranklist
 
-pip install -r requirements.txt
- 
 python3 rank.py
 
 If you want to search for any names enter the names seperated by a "-" when prompted by the script
@@ -31,3 +29,6 @@ ex : ramesh p p-sumesh k k
 
 
 ![lbs result](https://user-images.githubusercontent.com/85503330/175810247-5384954c-cc53-4fc4-8c3d-5e05856e8f52.png)
+
+
+* This is an unofficial ranklist based on marks only from the results published on 26/06/22 on the official website

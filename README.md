@@ -1,4 +1,4 @@
-# LBS-Ranklist MCA 2022
+# LBS-Ranklist MCA 2022 (UNOFFICIAL)
 Result of Entrance Examination conducted on 12-06-2022
 
 https://lbscentre.in/mstocomappl2022/index.aspx

@@ -10,5 +10,7 @@ HOW TO USE
 -----------------
 
 git clone [repo](https://github.com/Ash-ketchem/LBS-Ranklist.git)
+
 cd LBS-Ranklist
+
 python rank.py

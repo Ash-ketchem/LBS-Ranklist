@@ -13,12 +13,13 @@ def utils(df, names):
             for value in res.values:
                 res = value
                 print("[+] Results \n")
-                print(f"Name : {res[0]}")
-                print(f"Total Marks : {res[1]}")
-                print(f"CS : {res[2]}")
-                print(f"Maths : {res[3]}")
-                print(f"Reasoning : {res[4]}")
-                print(f"Rank : {res[5]}", "\n")
+                print(f"APPLNO : {res[0]}")
+                print(f"Name : {res[1]}")
+                print(f"Total Marks : {res[2]}")
+                print(f"CS : {res[3]}")
+                print(f"Maths : {res[4]}")
+                print(f"Reasoning : {res[5]}")
+                print(f"Rank : {res[6]}", "\n")
         else:
             print("[-] No data found, name might be incorrect")
 
@@ -60,6 +61,7 @@ def main():
         if len(marks):
             rank_list.append(
                 {
+                    "applno": contents[1],
                     "name": " ".join(i for i in contents[3:] if type(i) is str),
                     "mark": marks[0],
                     "cs": marks[1],

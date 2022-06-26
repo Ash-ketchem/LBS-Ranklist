@@ -9,7 +9,7 @@ The script parses the results.txt file to generate a dataframe with the ranks ca
 
 ![lbs](https://user-images.githubusercontent.com/85503330/175809785-b160580e-c637-4013-9b1a-daf99afcbe21.png)
 
-HOW TO USE
+USAGE
 -----------------
 
 (っ◔◡◔)っ ♥ 
@@ -22,4 +22,5 @@ python rank.py
 
 If you want to search for any names enter the names seperated by a "-" when prompted by the script
 ex : ramesh p p-sumesh k k
+
 ♥

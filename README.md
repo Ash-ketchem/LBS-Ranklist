@@ -20,6 +20,8 @@ git clone https://github.com/Ash-ketchem/LBS-Ranklist.git
 
 cd LBS-Ranklist
 
+pip install -r requirements.txt
+ 
 python3 rank.py
 
 If you want to search for any names enter the names seperated by a "-" when prompted by the script

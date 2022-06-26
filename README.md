@@ -9,7 +9,7 @@ The script parses the results.txt file to generate a dataframe with the ranks ca
 HOW TO USE
 -----------------
 
-git clone [repo](https://github.com/Ash-ketchem/LBS-Ranklist.git)
+git clone https://github.com/Ash-ketchem/LBS-Ranklist.git
 
 cd LBS-Ranklist
 

@@ -1,6 +1,8 @@
 # LBS-Ranklist MCA 2022
 Result of Entrance Examination conducted on 12-06-2022
 
+https://lbscentre.in/mstocomappl2022/index.aspx
+
 
 A simple python script to parse the lbs results 2022 to calculate the rank based on merit
 
@@ -18,9 +20,12 @@ git clone https://github.com/Ash-ketchem/LBS-Ranklist.git
 
 cd LBS-Ranklist
 
-python rank.py
+python3 rank.py
 
 If you want to search for any names enter the names seperated by a "-" when prompted by the script
 ex : ramesh p p-sumesh k k
 
 ♥
+
+
+![lbs result](https://user-images.githubusercontent.com/85503330/175810247-5384954c-cc53-4fc4-8c3d-5e05856e8f52.png)
